@@ -1,0 +1,29 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="13.191"
+    height="13.191"
+    viewBox="0 0 13.191 13.191"
+>
+    <g
+        id="Group_654"
+        data-name="Group 654"
+        transform="translate(-163.257 -703.257)"
+    >
+        <rect
+            id="Rectangle_919"
+            data-name="Rectangle 919"
+            width="1.555"
+            height="17.1"
+            transform="translate(175.349 703.257) rotate(45)"
+            fill="#cbcbcb"
+        />
+        <rect
+            id="Rectangle_920"
+            data-name="Rectangle 920"
+            width="1.555"
+            height="17.1"
+            transform="translate(176.448 715.349) rotate(135)"
+            fill="#cbcbcb"
+        />
+    </g>
+</svg>
